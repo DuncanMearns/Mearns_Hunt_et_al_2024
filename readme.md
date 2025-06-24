@@ -1,6 +1,9 @@
 Mearns Duncan S, Hunt Sydney A, Schneider Martin W, Parker Ash V, Stemmer Manuel, Baier Herwig (2024) Diverse prey capture strategies in teleost larvae eLife 13:RP98347
 https://doi.org/10.7554/eLife.98347.2
 
+Tracking data available at:
+https://data.mendeley.com/datasets/m6zs9bm7w3/1
+
 # Metadata
 Metadata, tracking files and analysis are organized using Experiment object from exptlib: https://github.com/DuncanMearns/exptlib
 
